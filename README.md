@@ -20,34 +20,35 @@ You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writin
 What will you learn?
 After completing the project, you will:
 
-Know all the steps involved in a typical data analysis process
-Be comfortable posing questions that can be answered with a given dataset and then answering those questions
+1: Know all the steps involved in a typical data analysis process
+2: Be comfortable posing questions that can be answered with a given dataset and then answering those questions
 Know how to investigate problems in a dataset and wrangle the data into a format you can use
-Have practice communicating the results of your analysis
-Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
-Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
+3: Have practice communicating the results of your analysis
+4: Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
+5: Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
 Know how to use Matplotlib to produce plots showing your findings
-Exploratory Data Analysis
+6: Exploratory Data Analysis
 Tip: Now that you've trimmed and cleaned your data, you're ready to move on to exploration. Compute statistics and create visualizations with the goal of addressing the research questions that you posed in the Introduction section. It is recommended that you be systematic with your approach. Look at one variable at a time, and then follow it up by looking at relationships between variables.
 
 Research Questions
-The best and the worst movies?
-Which year has the highest release of movies?
-Which movie has The Hightest or Lowest Profit?  Top 5 movies which earn hightest profit? 
-Movie with Highest And Lowest Budget?
-Which movie made the highest revenue and lowest as well?
-Movie with shorest and longest runtime?
-Which movie get the highest or lowest votes(Ratings).
-Which Year has the highest profite rate?
-The most successful Actor?
-Action or Thriller Movie with original language English and minimum Rating of 7.5 (most recent)
-What are the most common words in movie Titles and Taglines?
-Are Franchises more successful?
-Most Successful Franchises?
-The most successful Directors?
-Which movie would you like to see next? 
+1: The best and the worst movies?
+2: Which year has the highest release of movies?
+3: Which movie has The Hightest or Lowest Profit?  Top 5 movies which earn hightest profit? 
+4: Movie with Highest And Lowest Budget?
+5: Which movie made the highest revenue and lowest as well?
+6: Movie with shorest and longest runtime?
+7: Which movie get the highest or lowest votes(Ratings).
+8: Which Year has the highest profite rate?
+9: The most successful Actor?
+10: Action or Thriller Movie with original language English and minimum Rating of 7.5 (most recent)
+11: What are the most common words in movie Titles and Taglines?
+12: Are Franchises more successful?
+13: Most Successful Franchises?
+14: The most successful Directors?
+15: Which movie would you like to see next? 
 
-Conclusions
+Conclusions: 
+
 Drama is the most popular genre, following by action, comedy and thriller.
 Drame, Comedy, Thriller and Action are four most-made genres.
 Maximum Number Of Movies Release In year 2015.
